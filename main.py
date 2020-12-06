@@ -3,7 +3,6 @@ import random
 
 tim = t.Turtle()
 tim.shape('turtle')
-tim.pensize(15)
 tim.speed('fastest')
 t.colormode(255)
 
@@ -14,12 +13,11 @@ def randomColor():
 
     return (r,g,b)
 
-directions= [0,90,180,270]
-
-for _ in range(200):
-    tim.forward(40)
+for _ in range(120):
     tim.color(randomColor())
-    tim.setheading(random.choice(directions))
+    tim.circle(150)
+    tim.right(3)
+
 
 
 
