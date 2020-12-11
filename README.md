@@ -1,3 +1,3 @@
 # DotSpotPainting
 
-Using Python's turtle library to create a painting with dots formed in a pattern.
+Using Python's turtle library to create random dots forming a pattern.
