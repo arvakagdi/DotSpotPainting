@@ -1,3 +1,3 @@
-# DotSpotPainting
+# Spirograph using turtle library in Python
 
-Using Python's turtle library to create random dots forming a pattern.
+Getting familiar with  Python's turle library
